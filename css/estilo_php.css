@@ -1,0 +1,31 @@
+body{
+    overflow-x: hidden;
+}
+h1{
+    text-align: center;
+    padding: 30px;
+    color: #fff;
+    font-family: 'Homemade Apple', cursive;
+}
+
+h2{
+    text-align: center;
+    padding: 25%;
+    color: #FF0061;
+    text-shadow: 2px 4px #fff;
+}
+
+h2:hover{
+    font-size: 40px;
+    color: rebeccapurple;
+}
+
+.face{
+    background-image: url(../img/faces.jpg);
+    background-size: cover;
+}
+
+.hand{
+    background-image: url(../img/hands.jpg);
+    background-size: cover;
+}

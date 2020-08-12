@@ -1,0 +1,18 @@
+body{
+    overflow-x: hidden;
+}
+h1{
+    text-align: center;
+    padding: 30px;
+    color: #fff;
+    font-family: 'Homemade Apple', cursive;
+}
+
+h2{
+    text-align: center;
+    padding: 25%;
+}
+
+h2:hover{
+    font-size: 40px;
+}
